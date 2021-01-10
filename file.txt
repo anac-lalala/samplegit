@@ -1,1 +1,2 @@
-This file.txt has just one line written.
+This file.txt had one line written.
+But now has two lines.
